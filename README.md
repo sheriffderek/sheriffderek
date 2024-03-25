@@ -1,4 +1,4 @@
-# Sheriffderek
+# @sheriffderek == Derek Wood
 
 Writing/teaching the curriculum for DFTW at https://perpetual.education
 
