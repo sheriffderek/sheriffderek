@@ -1,4 +1,6 @@
-# @sheriffderek == Derek Wood
+# Derek Wood / Designer/developer/teacher
+
+@sheriffderek in the dev space
 
 Writing/teaching the curriculum for DFTW at https://perpetual.education
 
