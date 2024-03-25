@@ -1,7 +1,7 @@
 # Sheriffderek
 
-Writing the curriculum for DFTW at https://perpetual.education
+Writing/teaching the curriculum for DFTW at https://perpetual.education
 
-11 years web dev so far. Background in painting an music.
+Been officially focused on web dev since 2011. Background in painting and music.
 
 https://sheriffderek.consulting
