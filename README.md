@@ -1,4 +1,4 @@
-# Derek Wood
+# Derek Wood  (note: most of my early code was on BitBucked and GitLab)
 
 Product designer / design engineer / teacher.
 
