@@ -6,7 +6,7 @@ Product designer / design engineer / teacher.
 
 I started my career as a front-end developer. Over time, clients stopped asking me only to build things and started asking me to help figure out what should be built.
 
-(note: most of my early code was on BitBucked and GitLab)
+(note: most of my early code was on BitBucket and GitLab)
 
 I work across research, product strategy, information architecture, visual design, design systems, prototyping, and front-end development. Sometimes the fastest way to answer a design question is Figma. Sometimes it's code. Increasingly it's an agentic workflow. I care less about which tool we're using than whether we're actually learning something.
 
